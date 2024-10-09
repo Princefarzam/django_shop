@@ -1,0 +1,7 @@
+#Main Modules
+django >=4.2,<4.3
+
+
+
+#Database Modules
+psycopg[binary]
